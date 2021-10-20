@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eternal Brightness (@keepitbright)
+- 👀 I’m interested in infosec, game modding, reverse engineering, mathematics, decompilers and singing-voice synthesis
+- 🌱 I’m currently learning malware analysis, reverse engineering and vulkan
+- 💞️ I’m looking to collaborate on game server emulation related projects and stuff related to binary analysis tools
+- 📫 How to reach me: send me an email at `<me@malwarekitten.xyz>`
